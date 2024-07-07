@@ -22,4 +22,4 @@ Here are the installation steps
 ```shell
 # installation commands
 git clone https://github.com/Cpcode00/Restaurant-Website.git
-cd omnifood-site
+cd Restaurant-Website
